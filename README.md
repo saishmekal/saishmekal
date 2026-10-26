@@ -1,6 +1,4 @@
-# 💫 ABOUT ME
-
-### Hi there, I'm Saish Mekal! 👋
+# Hi there, I'm Saish Mekal! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saish-mekal-64499b253/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/saishmekal) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0ABF83?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
